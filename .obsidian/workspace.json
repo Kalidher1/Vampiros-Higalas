@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "847700053b2000d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9b9d669bde073e8",
+        "type": "tabs",
+        "dimension": 56.29084967320261,
+        "children": [
+          {
+            "id": "4300f63ae14ea764",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0fd4bc7564b971be",
+        "type": "tabs",
+        "dimension": 43.70915032679739,
+        "children": [
+          {
+            "id": "7f3a2888e03d67df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bella, A Costureira.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bella, A Costureira"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0572465a50412c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cdbba54e59352b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8041eb66f1ca4db4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "75839333636863c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ded9220b0e9bec7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5
+  },
+  "right": {
+    "id": "410201ed7a5bf00e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c5c53ac787e38c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fa974f4c5df3a86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bella, A Costureira.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Bella, A Costureira"
+            }
+          },
+          {
+            "id": "dbfcf2d286f0fcb6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bella, A Costureira.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Bella, A Costureira"
+            }
+          },
+          {
+            "id": "eeccc16d5a0c7b7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "614b80e92311d516",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bella, A Costureira.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Bella, A Costureira"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4300f63ae14ea764",
+  "lastOpenFiles": [
+    "Bella, A Costureira.md",
+    "Vamps",
+    "Anusa, A Bela.md",
+    "Imagens Fds/Pasted image 20250825094445.png",
+    "Famílias Vampíricas.md",
+    "Imagens Fds",
+    "Gulligus, O Subterrâneo.md",
+    "Deméters.md",
+    "Notas de Mestre das Deméters.md",
+    "Condição de Reprodução Familiar.md",
+    "Crias Verdadeiras.md",
+    "Crias Vampíricas.md",
+    "Sangue Primordial.md",
+    "Transformação.md",
+    "Imagens Fds/Pasted image 20250825141942.png",
+    "Imagens Fds/Pasted image 20250825141904.png",
+    "Imagens Fds/Pasted image 20250825141900.png",
+    "Mater.md",
+    "A Sociedade Vampira.md",
+    "Nível Vampírico.md",
+    "Ghouls.md",
+    "Divicus, O Anjo do Sangue.md",
+    "Notas de Mestre da Transformação.md",
+    "Chagas Absolutas.md",
+    "Imagens Fds/Pasted image 20250825103526.png",
+    "Imagens Fds/Pasted image 20250825102748.png",
+    "Imagens Fds/Pasted image 20250825102652.png",
+    "Dovah.md",
+    "Era Perdida.md",
+    "Imagens Fds/Pasted image 20250825101128.png",
+    "Notas de Mestre da Mater.md",
+    "Imagens Fds/Pasted image 20250825095602.png",
+    "Imagens Fds/Pasted image 20250825095557.png",
+    "Welcome.md"
+  ]
+}

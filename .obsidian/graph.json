@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "#Mater",
+      "color": {
+        "a": 1,
+        "rgb": 5046272
+      }
+    },
+    {
+      "query": "#Notas",
+      "color": {
+        "a": 1,
+        "rgb": 14077998
+      }
+    },
+    {
+      "query": "#Primordiais",
+      "color": {
+        "a": 1,
+        "rgb": 14235190
+      }
+    },
+    {
+      "query": "#Crias",
+      "color": {
+        "a": 1,
+        "rgb": 16612476
+      }
+    },
+    {
+      "query": "#Famílias-Primordiais",
+      "color": {
+        "a": 1,
+        "rgb": 10289409
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.0908264033264033,
+  "repelStrength": 6.80613305613306,
+  "linkStrength": 1,
+  "linkDistance": 307,
+  "scale": 0.713275462622441,
+  "close": true
+}
