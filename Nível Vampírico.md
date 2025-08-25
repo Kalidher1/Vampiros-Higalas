@@ -1,2 +1,2 @@
 #Mater 
-Vampiros se aprimoram baseado no numero de [[Crias Vampíricas]] que eles tem. 
+Vampiros se aprimoram baseado no numero de [[Crias Vampíricas]] que eles tem. Apenas [[Crias Verdadeiras]] contam pra esse número, e níveis mais avançados tem requerimentos adicionais, como beber o [[Sangue Primordial]] de algum vampiro específico, ou a realização de algum ritual.

@@ -25,7 +25,7 @@
       "query": "#Primordiais",
       "color": {
         "a": 1,
-        "rgb": 14235190
+        "rgb": 11354947
       }
     },
     {
@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 10289409
       }
+    },
+    {
+      "query": "#Vampiros",
+      "color": {
+        "a": 1,
+        "rgb": 16723502
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 6.80613305613306,
   "linkStrength": 1,
   "linkDistance": 307,
-  "scale": 0.7132754626224409,
+  "scale": 0.71327546262244,
   "close": true
 }

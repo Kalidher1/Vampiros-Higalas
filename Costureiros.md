@@ -9,3 +9,7 @@ Antes da transformação, a [[Costura de Linhagem]] é invisível ao olho nu, se
 Eles também tem presas, porém se alimentam bebendo o sangue como qualquer outro líquido, indo diretamente ao estômago.
 
 A [[Condição de Reprodução Familiar]] dos Costureiros é se alimentar de alguém que esteja vestindo uma [[Costura de Linhagem]].
+
+Membros Especiais:
+
+[[Noah]]
