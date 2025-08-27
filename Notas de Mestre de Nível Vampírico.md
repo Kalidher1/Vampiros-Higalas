@@ -1,0 +1,2 @@
+#Notas 
+Vampiros drenam a mana do sangue, e por isso não é possível beber sangue não fresco, diretamente do corpo da vítima. Junto disso, as condições de [[Drenada]] não podem ser restauradas por magia.
