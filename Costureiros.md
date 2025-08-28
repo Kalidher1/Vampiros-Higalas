@@ -1,6 +1,6 @@
 #Famílias-Primordiais 
 
-Liderados por [[Davos, O Costureiro]], os costureiros são vampiros adeptos as linhas. Eles conseguem utilizar parte de sua carne para criar linhas, e com elas, costurar e perfurar qualquer pessoa.
+Representados por [[Davos, O Costureiro]], os costureiros são vampiros adeptos as linhas. Eles conseguem utilizar parte de sua carne para criar linhas, e com elas, costurar e perfurar qualquer pessoa.
 
 Costureiros podem fazer em suas vítimas algo chamado de [[Costura de Linhagem]], uma série de linhas passando pela pele da vítima de forma suave, formando uma espécie de vestimenta dentro da carne.
 

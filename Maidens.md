@@ -1,5 +1,5 @@
 #Famílias-Primordiais 
-Maidens são vampiros de alta classe, liderados por [[D'arc, a Pálida]], são geralmente donos de castelos, pequenos ou grandes. 
+Maidens são vampiros de alta classe, representados por [[D'arc, a Pálida]], são geralmente donos de castelos, pequenos ou grandes. 
 
 Maidens normalmente tem certa dificuldade de esconder sua aparência vampírica, geralmente se disfarçando de elfos e outras raças similares a sua aparência. São os vampiros mais comuns de serem vistos na luz do dia, sempre acompanhados de uma sombrinha ou de grandes chapéus para se proteger da luz direta do sol. 
 
